@@ -1,0 +1,122 @@
+body {
+  margin: 0px;
+}
+
+.div0 {
+  background-image: url(1.jpg);
+  height: 10rem;
+  background-size: cover;
+}
+
+.d-flex-2 {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.div1 {
+  background-image: url(2.jpg);
+  height: 5rem;
+  width: 20%;
+  background-size: cover;
+}
+.div2 {
+  background-image: url(3.jpg);
+  height: 5rem;
+  width: 20%;
+  background-size: cover;
+}
+.div3 {
+    background-image: url(4.jpg);
+    height: 5rem;
+    width: 20%;
+    background-size: cover;
+}
+
+.div5 {
+    background-image: url(5.jpg);
+    height: 5rem;
+    width: 20%;
+    background-size: cover;
+}
+
+.d-flex-3{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.div6{
+    background-image: url(6.jpg);
+    height: 5rem;
+    width: 20%;
+    background-size: cover;
+}
+
+.div7{
+    background-image: url(7.jpg);
+    height: 5rem;
+width: 80%;
+    background-size: cover;
+    
+}
+
+.div8{
+    background-image: url(8.jpg);
+    height: 5rem;
+    width: 20%;
+    background-size: cover;
+
+}
+
+.d-flex-4{
+    display: flex;
+    gap: 10px;
+}
+
+.div-inside9{
+    background-image: url(9.jpg);
+    height: 5rem;
+    width: 20%;
+    background-size: cover;
+}
+.div-inside10{
+    background-image: url(10.jpg);
+    height: 5rem;
+    width: 20%;
+    background-size: cover;
+}
+.div-inside11{
+    background-image: url(11.jpg);
+    height: 5rem;
+    width: 20%;
+    background-size: cover;
+}
+.div-inside12{
+    background-image: url(12.jpg);
+    height: 5rem;
+    width: 20%;
+    background-size: cover;
+}
+.div-inside13{
+    background-image: url(1.jpg);
+    height: 5rem;
+    width: 20%;
+    background-size: cover;
+}
+
+.d-flex-5{
+    display: flex;
+}
+
+.d-flex-5 div:nth-child(1){
+    width: 70%;
+}
+
+.div-inner{
+        display: flex
+;
+    gap: 10px;
+}
